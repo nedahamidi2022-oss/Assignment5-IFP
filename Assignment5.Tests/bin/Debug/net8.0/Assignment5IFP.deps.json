@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignment5IFP/1.0.0": {
+        "runtime": {
+          "Assignment5IFP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment5IFP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
